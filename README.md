@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**lucas-podkowa/Lucas-Podkowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi There, I am Lucas Podkowa <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-Here are some ideas to get you started:
+I'm a **University Degree in Information Systems** graduated in **2016** from **Universidad Nacional de Misiones** and Full-Stack Web Developer with a career of 8 years as a developer and SisAdmin in the Planning and Development Division of the Faculty of Engineering (UNaM), working with multiple frameworks and technologies related to **PHP** and **JavaScript** , such as SIU-Toba, Laravel, Node.js and React, along with their current modules and libraries. Added to the domain of relational and non-relational databases such as **MySQL, PostgreSQL and MongoDB** for the development of robust and scalable **RESTFul APIs**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition, I have experience **teaching at the University and working in a team as a teacher in the Computer Engineering degree**, as well as in entities of the Public Limited Company type, being a **facilitator and person in charge of courses related to full-stack and backend web development**.
+
+
+## Skill Set :muscle:
+
+These are some of the major technologies that I use or have worked on in the past:
+
+**Programming Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
+
+**Libraries and Frameworks**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,jest,jquery,react,bootstrap,tailwind,sass,laravel&perline=4)](https://skillicons.dev)
+
+
+**Databases**
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&perline=4)](https://skillicons.dev)
+
+
+**Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,postman,vite,vscode,bash,rocket,discord&perline=4)](https://skillicons.dev)
+
+<br>
+
+## Some of my stats :bar_chart:
+
+<img src="https://github-readme-stats.vercel.app/api?username=lucas-podkowa&show_icons=true&theme=radical&include_all_commits=true">
+
+<br>
+
+## Let's Connect :handshake:
+
+<a href="https://www.linkedin.com/in/lucas-podkowa/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/techy_tushar"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://www.youtube.com/channel/UCRIV6ndalc_mfIdAN_T2sgA"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-128.png" width="40"></a>|<a href="https://www.facebook.com/tusharmit"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>|<a href="mailto:chiragmittal.mittal@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|<a href="https://www.instagram.com/techy.tushar"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a>|<a href="https://www.kaggle.com/techytushar/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
+|--|--|--|--|--|--|--|
+
