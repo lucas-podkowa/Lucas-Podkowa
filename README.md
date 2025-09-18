@@ -1,7 +1,7 @@
 
 <h1>Hi There, I am Lucas Podkowa <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **University Degree in Information Systems** graduated in **2016** from **Universidad Nacional de Misiones** and Full-Stack Web Developer with a career of 8 years as a developer and SisAdmin in the Planning and Development Division of the Faculty of Engineering (UNaM), working with multiple frameworks and technologies related to **PHP** and **JavaScript** , such as SIU-Toba, Laravel, Node.js and React, along with their current modules and libraries. Added to the domain of relational and non-relational databases such as **MySQL, PostgreSQL and MongoDB** for the development of robust and scalable **RESTFul APIs**.
+I'm a **University Degree in Information Systems** graduated in **2016** from **Universidad Nacional de Misiones** and Full-Stack Web Developer with a career of 9 years as a developer and SisAdmin in the Planning and Development Division of the Faculty of Engineering (UNaM), working with multiple frameworks and technologies related to **PHP** and **JavaScript** , such as SIU-Toba, Laravel, Node.js and React, along with their current modules and libraries. Added to the domain of relational and non-relational databases such as **MySQL, PostgreSQL and MongoDB** for the development of robust and scalable **RESTFul APIs**.
 
 In addition, I have experience **teaching at the University and working in a team as a teacher in the Computer Engineering degree**, as well as in entities of the Public Limited Company type, being a **facilitator and person in charge of courses related to full-stack and backend web development**.
 
